@@ -419,3 +419,5 @@ Contributions that improve accuracy, add labs, or deepen module notes are welcom
 ## License
 
 Educational use. These notes are a personal study knowledge base compiled from public documentation and hands-on labs. Third-party trademarks (Red Hat, Debian, CentOS, OpenWrt, Samba, and others) belong to their respective owners and are referenced for identification only. Verify every command in an isolated lab before using it in production.
+
+}
